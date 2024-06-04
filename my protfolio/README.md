@@ -32,5 +32,5 @@ Welcome to my portfolio website! This website showcases my projects, skills, and
 Contributions are welcome! If you have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## 📬 Contact
-Feel free to reach out to me through the contact form on the website or connect with me on [LinkedIn]("https://www.linkedin.com/in/rajkumar-anbazhagan-425519297").
+Feel free to reach out to me through the contact form on the website or connect with me on LinkedIn - https://www.linkedin.com/in/rajkumar-anbazhagan-425519297/.
 
