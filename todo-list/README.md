@@ -22,9 +22,9 @@ This fully responsive web application tackles your daily tasks with ease. Add, e
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/rajkumara2002/CBTCIP.git
+   git clone https://github.com/rajkumara2002/RK.git
 2. ```sh
-   cd CBTCIP
+   cd RK
    ```
 
 ## 📬 Contact
