@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+
+<head>
+    <!-- Coded by Raju -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List | Raju</title>
+    <link rel="stylesheet" href="list.css">
+    <link rel="icon" type="image/x-icon" href="./images/Todo.png"> 
+</head>
+
+<body>
+    <div class="todo-container">
+        <div class="todo">
+            <h2>To-Do List</h2>
+            <div class="task-input">
+                <input type="text" id="input-box" placeholder="Enter your task">
+                <button onclick="addTask()">Add</button>
+                <div class="select">
+                    <select name="todos" class="filter-todo">
+                        <option value="all" class="filter-value">All</option>
+                        <option value="completed" class="filter-value">Completed</option>
+                    </select>
+                </div>
+            </div>
+            <div class="scroll">
+                <ul id="todo-list">
+                    <!-- <li class="checked">Today finish the homework</li>
+            <li>Eat some apple regularly</li>
+            <li>Play cricket everyday evening</li> -->
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
